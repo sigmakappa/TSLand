@@ -6,6 +6,7 @@ console.log("Employee Name is: ", Employee_details.Empname,
     "\nEmployee's section is: ", Employee_details.EmpSection
 )
 
+console.log()
 
 let firstName: string = "Dylan";
 console.log(firstName);
